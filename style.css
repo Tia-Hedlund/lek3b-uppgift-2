@@ -1,10 +1,30 @@
-#bakgrund{
+.bakgrund{
     background-image: url("./img/snow_winter_trees.jpg");
     height: 150px;
+    padding: 1%;
 
 }
 
+#top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1%;
+}
+
+.bilder{
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 10%;
+}
+
+/*
+h1{
+    font-family: 
+}
+*/
+
 div{
-    border: 5px solid #D6001C;
-    border-radius: 5px;
+    border: 3px solid #D6001C;
+    border-radius: 3px;
 }
