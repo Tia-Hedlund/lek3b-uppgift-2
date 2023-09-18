@@ -1,0 +1,10 @@
+#bakgrund{
+    background-image: url("./img/snow_winter_trees.jpg");
+    height: 150px;
+
+}
+
+div{
+    border: 5px solid #D6001C;
+    border-radius: 5px;
+}
